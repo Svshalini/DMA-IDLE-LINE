@@ -21,4 +21,4 @@ KEY POINTS:
 1.uart_buffer size should be greater than the dma_buffer.
 2.buffer(temp buffer) should not be less than dma_buffer(assign greater or equal size).
 3.you can even assign bigger size buffers based on the requirements.
-
+4.For better understanding about the flow and buffer activity always go with the small sized buffers(recommended).
